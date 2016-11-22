@@ -1,0 +1,24 @@
+{
+  "name": "chinese-filename-to-pinyin",
+  "version": "1.0.0",
+  "description": "chinese-filename-to-pinyin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dajbd/Chinese-Filename-to-Pinyin.git"
+  },
+  "keywords": [
+    "pinyin",
+    "filename",
+    "chinese"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dajbd/Chinese-Filename-to-Pinyin/issues"
+  },
+  "homepage": "https://github.com/dajbd/Chinese-Filename-to-Pinyin#readme"
+}
