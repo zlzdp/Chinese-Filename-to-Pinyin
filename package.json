@@ -25,6 +25,8 @@
     "2pinyin": "./index.js"
   },
   "dependencies": {
-    "copy-dir": "^0.3.0"
+    "copy-dir": "^0.3.0",
+    "fs-promise": "^1.0.0",
+    "pinyin": "^2.8.0"
   }
 }
