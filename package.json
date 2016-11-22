@@ -23,5 +23,8 @@
   "homepage": "https://github.com/dajbd/Chinese-Filename-to-Pinyin#readme",
   "bin": {
     "2pinyin": "./index.js"
+  },
+  "dependencies": {
+    "copy-dir": "^0.3.0"
   }
 }
