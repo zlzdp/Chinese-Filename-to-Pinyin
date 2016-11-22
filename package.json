@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dajbd/Chinese-Filename-to-Pinyin/issues"
   },
-  "homepage": "https://github.com/dajbd/Chinese-Filename-to-Pinyin#readme"
+  "homepage": "https://github.com/dajbd/Chinese-Filename-to-Pinyin#readme",
+  "bin": {
+    "2pinyin": "./index.js"
+  }
 }
