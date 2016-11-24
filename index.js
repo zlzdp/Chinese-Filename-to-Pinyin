@@ -46,7 +46,7 @@ fs.readdir(distPath).then(function(files) {
         fs.rename(oldPath, newPath)
     })
 
-    console.log('****操作完成，请在以下路径查看结果：****\n' + distPath)
+    console.log('\n**** 操作完成，请在以下路径查看结果： ****\n' + distPath)
 }).catch(function(e) {
     console.log(e)
 })
